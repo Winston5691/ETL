@@ -1,7 +1,5 @@
 A data warehousing project that entails designing the data marts as well as integrated data warehouse from scratch and then performing extensive ETL.
 
-
-
 ## Built with
 
 - Love
